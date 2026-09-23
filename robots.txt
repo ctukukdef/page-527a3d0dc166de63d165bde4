@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://6so2td.cn/sitemap.xml
